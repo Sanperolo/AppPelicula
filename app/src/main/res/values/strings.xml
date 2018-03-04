@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppPeliculas</string>
+    <string name="tv_num">Introduce el número de películas que desea visualizar</string>
+    <string name="btn_consulta">Consultar películas</string>
+    <string name="msg_num_no_valido">El valor debe ser numérico mayor que cero</string>
+    <string name="clave_num_pel">NUM_PEL</string>
+</resources>
